@@ -5,9 +5,13 @@ function Navbar() {
     return (
         <nav className="navbar">
             <div className="container">
-                <div className="navbar-brand"><a className="navbar-item" href="#">Pied Piper</a><a
-                    className="navbar-burger" role="button" aria-label="menu" aria-expanded="false"><span
-                    aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span></a></div>
+                <div className="navbar-brand"><a className="navbar-item" href="#">Moonshots</a>
+                    <a
+                    className="navbar-burger" role="button" aria-label="menu" aria-expanded="false">
+                        <span
+                    aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span>
+                    </a>
+                </div>
                 <div className="navbar-menu">
                     <div className="navbar-start">
                         <a className="navbar-item" href="#">Features</a><a className="navbar-item"

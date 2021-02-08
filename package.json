@@ -1,5 +1,6 @@
 {
   "name": "mfe-moonshots-redondeo-web-cl",
+  "homepage": "https://moonshotschile.github.io/roundup",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -6,7 +6,7 @@ function Landing() {
         <>
             <section className="section">
                 <div className="container has-text-centered py-4">
-                    <h2 className="title mb-6">What's So Great About PiperNet?</h2>
+                    <h2 className="title mb-6">What's So Great About Moonshots?</h2>
                     <div className="columns">
                         <div className="column">
                             <div className="level">
@@ -41,7 +41,7 @@ function Landing() {
                                     <figure className="image is-128x128">
                                         <img
                                           className="is-rounded"
-                                          src="https://bulma.dev/src/assets/placeholder/pictures/bg_circle.svg?primary=00d1b2"
+                                          src="https://bulma.dev/placeholder/pictures/bg_circle.svg?primary=00d1b2"
                                           alt=""
                                         />
                                     </figure>

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/roundup/static/css/main.25b3a420.chunk.css",
-    "main.js": "/roundup/static/js/main.db3b2500.chunk.js",
-    "main.js.map": "/roundup/static/js/main.db3b2500.chunk.js.map",
+    "main.js": "/roundup/static/js/main.35a8d1ee.chunk.js",
+    "main.js.map": "/roundup/static/js/main.35a8d1ee.chunk.js.map",
     "runtime-main.js": "/roundup/static/js/runtime-main.acb3e87c.js",
     "runtime-main.js.map": "/roundup/static/js/runtime-main.acb3e87c.js.map",
     "static/js/2.be7d4fec.chunk.js": "/roundup/static/js/2.be7d4fec.chunk.js",
@@ -11,12 +11,16 @@
     "static/js/3.1577d850.chunk.js.map": "/roundup/static/js/3.1577d850.chunk.js.map",
     "index.html": "/roundup/index.html",
     "static/css/main.25b3a420.chunk.css.map": "/roundup/static/css/main.25b3a420.chunk.css.map",
-    "static/js/2.be7d4fec.chunk.js.LICENSE.txt": "/roundup/static/js/2.be7d4fec.chunk.js.LICENSE.txt"
+    "static/js/2.be7d4fec.chunk.js.LICENSE.txt": "/roundup/static/js/2.be7d4fec.chunk.js.LICENSE.txt",
+    "static/media/apple.e8cef296.svg": "/roundup/static/media/apple.e8cef296.svg",
+    "static/media/facebook-f.aa5bf8c7.svg": "/roundup/static/media/facebook-f.aa5bf8c7.svg",
+    "static/media/instagram.c5266e79.svg": "/roundup/static/media/instagram.c5266e79.svg",
+    "static/media/twitter.515f8b90.svg": "/roundup/static/media/twitter.515f8b90.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.acb3e87c.js",
     "static/js/2.be7d4fec.chunk.js",
     "static/css/main.25b3a420.chunk.css",
-    "static/js/main.db3b2500.chunk.js"
+    "static/js/main.35a8d1ee.chunk.js"
   ]
 }
